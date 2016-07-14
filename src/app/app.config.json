@@ -1,0 +1,13 @@
+{
+  "appname": "TestAPP default",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "3DD292B6-699F-40F9-A996-CC24CDADF1CC",
+  "buyerid": "BuyerID1",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
